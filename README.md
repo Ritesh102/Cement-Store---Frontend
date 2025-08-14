@@ -1,7 +1,7 @@
-# HomeRun — Product Listing + Cart Interaction (React, Vite)
+# HomeRun — Product Listing + Cart Interaction 
 
 ## Overview
-This is a small React app (Vite) that implements the HomeRun assignment:
+This is a small React app that implements the HomeRun assignment:
 - Product grid (4 dummy cement products)
 - Add button → quantity controls: [<<] [-] [Qty] [+] [>>]
 - + / - change quantity by 1; << / >> change by -5 / +5
@@ -23,6 +23,7 @@ This is a small React app (Vite) that implements the HomeRun assignment:
 - src/
   - main.jsx
   - App.jsx
+  - index.css
   - data/products.js
   - components/
     - Header.jsx
