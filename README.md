@@ -1,4 +1,4 @@
-# HomeRun — Product Listing + Cart Interaction 
+# Cement Store — Product Listing + Cart Interaction 
 
 ## Overview
 This is a small React app that implements the HomeRun assignment:
